@@ -12,7 +12,7 @@ const styles = StyleSheet.create({
     text: {
         color: 'grey',
         marginTop: 10,
-    }
+    },
 })
 
 export default styles;
